@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(188, 235, 235);
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #996f6f;
+}
+
+p {
+       font-size: 15px;
+}
+
+ul {
+    list-style-position: inside;
+    color: rgb(92, 94, 78);
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
